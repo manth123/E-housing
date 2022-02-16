@@ -1,0 +1,12 @@
+C:\Users\Bhavesh\Desktop\DotNet Practicals\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Bhavesh\Desktop\DotNet Practicals\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Bhavesh\Desktop\DotNet Practicals\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.login.resources
+C:\Users\Bhavesh\Desktop\DotNet Practicals\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Bhavesh\Desktop\DotNet Practicals\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Bhavesh\Desktop\DotNet Practicals\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Bhavesh\Desktop\DotNet Practicals\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Bhavesh\Desktop\DotNet Practicals\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.mainform.resources
+C:\Users\Bhavesh\Desktop\DotNet Practicals\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.registration.resources
+C:\Users\Bhavesh\Desktop\DotNet Practicals\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Bhavesh\Desktop\DotNet Practicals\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Bhavesh\Desktop\DotNet Practicals\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.form1.resources
